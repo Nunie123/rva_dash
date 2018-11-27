@@ -1,1 +1,1 @@
-web: gunicorn backend:rva_dash
+web: gunicorn rva_dash:backend:rva_dash
